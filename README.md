@@ -6,3 +6,6 @@ https://www.washingtonpost.com/graphics/2019/investigations/dea-pain-pill-databa
 
 More information on the ARCOS data is available directly from the US Dept of Justice here:
 https://www.deadiversion.usdoj.gov/arcos/retail_drug_summary/
+
+Details on R package on CRAN available here:
+https://cran.r-project.org/web/packages/arcos/readme/README.html
